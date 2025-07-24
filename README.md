@@ -89,10 +89,7 @@ seoul-wifi-analysis/
 ├── data/                  # 데이터 파일
 │   ├── raw/               # 원본 데이터
 │   └── processed/         # 전처리된 데이터
-│
-├── docs/                  # 문서 파일
-│   └── seoul-wifi-analysis.pdf  # 프로젝트 보고서 PDF
-│
+|
 ├── results/               # 분석 결과물
 │   └── visualizations/    # 시각화 결과
 │

@@ -74,9 +74,7 @@ mv/
 # macOS
 .DS_Store 
 # Large files
-docs/*.pdf
 results/visualizations/wifi_map.html
 # Large files
-docs/*.pdf
 results/visualizations/wifi_map.html
 mv/

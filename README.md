@@ -161,7 +161,7 @@ python -m src.main --basic --advanced --maps
 
 ## **보고서 문서**
 
-프로젝트의 상세 분석 결과와 인사이트는 [seoul-wifi-analysis.pdf](docs/seoul-wifi-analysis.pdf) 문서에서 확인할 수 있습니다. 이 문서에는 다음 내용이 포함되어 있습니다:
+프로젝트의 상세 분석 결과와 인사이트는 [seoul-wifi-analysis.pptx](https://github.com/J-Draco/seoul-wifi-project/releases/download/v1.0.0/seoul-wifi-analysis.pptx) 발표자료에서 확인할 수 있습니다. 이 문서에는 다음 내용이 포함되어 있습니다:
 
 - 데이터 수집 및 전처리 방법론
 - 상세 분석 결과 및 시각화 자료
